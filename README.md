@@ -1,8 +1,8 @@
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=1200&color=39FF7A&vCenter=true&repeat=true&width=480&lines=0xArayy)](https://github.com/0xArayy)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=1200&color=39FF7A&vCenter=true&repeat=true&width=480&lines=%3E_+whoami;0xArayy)]
 <br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=1200&color=4FF&vCenter=true&repeat=true&width=980&lines=%3E_+Web3+%2F+Blockchain+Developer;%3E_+L1+%7C+GameFi+%7C+DeFi+%7C+cross-chain)](https://github.com/0xArayy)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=1200&color=4FF&vCenter=true&repeat=true&width=980&lines=%3E_+Web3+%2F+Blockchain+Developer;%3E_+L1+%7C+GameFi+%7C+DeFi+%7C+cross-chain)]
 
 </div>
 
