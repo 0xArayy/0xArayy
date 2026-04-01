@@ -21,7 +21,7 @@
 - **Frontend:** React
 - **Data & Infra:** PostgreSQL, MySQL, MongoDB, Docker, Linux
 
-## Selected Impact
+## Key Achievements
 
 - Built a custom **L1 blockchain on Avalanche Subnet** and ran validator/node infrastructure across testnet and mainnet environments.
 - Implemented **ICM and cross-chain interoperability** flows, enabling multi-network contract and protocol interactions.
