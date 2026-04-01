@@ -8,8 +8,6 @@
 
 ![Terminal GitHub Stats](./github_stats.svg)
 
-Web3 engineer with 4+ years of experience shipping production systems across GameFi, DeFi, dApps, CEX/DEX integrations, and enterprise blockchain.  
-I design and deploy secure smart contracts, scalable backend architecture, and L1-ready infrastructure for EVM ecosystems.
 
 ## Tech Stack
 
