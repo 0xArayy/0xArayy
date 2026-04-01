@@ -6,8 +6,6 @@
 
 </div>
 
-## Terminal GitHub Stats
-
 ![Terminal GitHub Stats](./github_stats.svg)
 
 Web3 engineer with 4+ years of experience shipping production systems across GameFi, DeFi, dApps, CEX/DEX integrations, and enterprise blockchain.  
@@ -33,12 +31,6 @@ I design and deploy secure smart contracts, scalable backend architecture, and L
 - Delivered gaming contracts with Hardhat/Foundry tests and security audit fixes.
 - Implemented **ERC-4337 smart wallet** flows and optimized gas usage to improve transaction efficiency in production scenarios.
 - Shipped enterprise blockchain integrations (**Hyperledger / IOTA Tangle**) with backend connectivity and network security configuration.
-
-## Domain Focus
-
-- EVM ecosystems and TON
-- DeFi, NFT, GameFi, RWA primitives
-- Upgradeable patterns, audit fix implementation, protocol documentation
 
 ## Contact
 
