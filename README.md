@@ -31,6 +31,12 @@
 - Shipped enterprise blockchain integrations (**Hyperledger / IOTA Tangle**) with backend connectivity and network security configuration.
 
 ## Contact
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/array2x2)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/0xArayy)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:araycik@gmail.com)
+<p align="left">
+  <a href="https://t.me/array2x2"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" /></a>
+  &nbsp;
+  <a href="https://github.com/0xArayy"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="mailto:araycik@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="Gmail" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/0xArayy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
