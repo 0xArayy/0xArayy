@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=1200&color=39FF7A&vCenter=true&repeat=true&width=480&lines=whoami;0xArayy)
 <br/>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=1200&color=4FF&vCenter=true&repeat=true&width=980&lines=%3E_+Web3+%2F+Blockchain+Developer;%3E_+L1+%7C+GameFi+%7C+DeFi+%7C+cross-chain)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=1200&color=4FF&vCenter=true&repeat=true&width=980&lines=%3E_+Fullstack+Blockchain+%2F+Web3+Developer;%3E_+Product+%2B+Engineering+%2B+AI-driven+development)
 
 </div>
 
@@ -15,20 +15,22 @@
   <img src="https://skillicons.dev/icons?i=solidity,js,ts,py,nodejs,nestjs,react,postgres,mongodb,docker,linux,git" alt="tech stack icons" />
 </p>
 
-- **Smart Contracts:** Solidity, Vyper, Tact, FunC, OpenZeppelin
-- **Web3:** ethers.js, web3.js, Hardhat, Foundry, Truffle, web3.py, Blueprint, Alchemy, Infura
-- **Backend:** Node.js, NestJS, FastAPI, Django
-- **Frontend:** React
+- **Smart Contracts:** Solidity, Vyper, FunC, Tact, OpenZeppelin
+- **Web3:** Hardhat, Foundry, Truffle, ethers.js, web3.js, web3.py, Chainlink, Alchemy, Infura
+- **Backend:** JavaScript, TypeScript, Node.js, NestJS, Python, FastAPI, Django, REST, GraphQL
+- **Frontend:** React, Next.js, Web3 UI integrations (wallets, signing, state management)
 - **Data & Infra:** PostgreSQL, MySQL, MongoDB, Docker, Linux
+- **AI Tools:** Cursor, LLM-assisted development pipelines
 
 ## Key Achievements
 
-- Built a custom **L1 blockchain on Avalanche Subnet** and ran validator/node infrastructure across testnet and mainnet environments.
-- Implemented **ICM and cross-chain interoperability** flows, enabling multi-network contract and protocol interactions.
-- Integrated **Chainlink VRF** to provide verifiable on-chain randomness for GameFi mechanics and payout logic.
-- Delivered gaming contracts with Hardhat/Foundry tests and security audit fixes.
-- Implemented **ERC-4337 smart wallet** flows and optimized gas usage to improve transaction efficiency in production scenarios.
-- Shipped enterprise blockchain integrations (**Hyperledger / IOTA Tangle**) with backend connectivity and network security configuration.
+- Built and deployed an **L1 blockchain on Avalanche Subnet (CX Chain)**, including validator/node infrastructure and network configuration.
+- Implemented **cross-chain interoperability (ICM)** for interaction between networks and smart contracts.
+- Delivered end-to-end **Web3 systems** (frontend + backend + smart contracts) for dApps and game mechanics.
+- Designed and implemented **Web3 product architecture** with users, referrals, staking-based roles, and tokenomics.
+- Built **Discord automation** for NFT holders and stakers with role-based access and product logic.
+- Created an analytics layer for Web3 products: profitability, conversion, retention, and user behavior insights.
+- Unified full-stack Web3 architecture: smart contracts + backend APIs + frontend + automation + analytics.
 
 ## Contact
 <p align="left">
