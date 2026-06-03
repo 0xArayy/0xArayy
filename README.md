@@ -34,7 +34,7 @@
 
 ## Contact
 <p align="left">
-  <a href="https://t.me/array2x2"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/oxArayy"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" /></a>
   &nbsp;
   <a href="https://github.com/0xArayy"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
   &nbsp;
