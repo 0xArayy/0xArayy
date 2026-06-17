@@ -46,7 +46,7 @@ jobs:
         working-directory: generator
         env:
           GHT: ${{ github.token }}
-        run: node dist/bin/github-stats-terminal.js ${{ github.repository_owner }} hacker
+        run: node dist/bin/github-stats-terminal.js --user ${{ github.repository_owner }}
 
       - name: Copy SVG to profile repo
         run: cp generator/github_stats.svg profile/github_stats.svg
